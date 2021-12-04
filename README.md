@@ -3,6 +3,8 @@
 [![Twitter Badge](https://img.shields.io/badge/-NishantSingh-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Nishant27460243)](https://twitter.com/Nishant27460243) 
 [![GitHub followers](https://img.shields.io/github/followers/NishantSingh-2705.svg?style=social&label=Follow)](https://github.com/NishantSingh-2705?tab=followers)<br/>
 
+<img align="right" alt="GIF" src="https://github.com/NishantSingh-2705/NishantSingh-2705/blob/main/code.gif" width="500" height="320" />
+
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
 <p>I am an undergraduate student pursuing B.TECH in Computer Science and Engineering with Specialization in Cloud Computing. I passionately learn new skills, and try to succeed in an environment of growth and excellence by putting in tireless perpetual efforts.</p>
