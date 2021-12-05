@@ -7,7 +7,7 @@
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-<p>I am an undergraduate student pursuing B.TECH in Computer Science and Engineering with Specialization in Cloud Computing. I passionately learn new skills, and try to succeed in an environment of growth and excellence by putting in tireless perpetual efforts.</p>
+<p>I am an undergraduate student, pursuing B.TECH in Computer Science and Engineering with Specialization in Cloud Computing. I passionately learn new skills, and try to succeed in an environment of growth and excellence by putting in tireless perpetual efforts.</p>
 
 - 🔭 I’m currently working on my skills
 - 🌱 I’m currently learning:
